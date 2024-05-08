@@ -1,5 +1,5 @@
 {
-  "homepage" : "https://Ramnikhil123.github.io/budget-tracker-app",
+  "homepage": "https://Ramnikhil123.github.io/budget-tracker-app",
   "name": "budget-tracker-app",
   "version": "0.1.0",
   "private": true,
@@ -39,7 +39,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
-    
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "gh-pages": "^6.1.1"
   }
 }
